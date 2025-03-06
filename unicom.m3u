@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="17" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="CCTV",CCTV-1(1080P)
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="CCTV",CCTV-1(1080P)
 http://112.86.202.37:8112/JSBC_iptv/C10000037@JSBC
 #EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="CCTV",CCTV-1(1080P)
 http://112.86.202.37:8112/JSBC_iptv/C10000037@JSBC
