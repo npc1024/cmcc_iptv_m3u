@@ -115,12 +115,6 @@ http://112.86.202.37:8112/JSBC_iptv/C10000200@JSBC
 http://112.86.202.37:8112/JSBC_iptv/C10000202@JSBC
 #EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视",江苏卫视(2K)
 http://112.86.202.37:8112/JSBC_iptv/C10000143@JSBC
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方台",江苏城市(720P)
-http://112.86.202.37:8112/JSBC_iptv/C10000016@JSBC
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方台",江苏综艺(720P)
-http://112.86.202.37:8112/JSBC_iptv/C10000017@JSBC
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方台",江苏体育·休闲(720P)
-http://112.86.202.37:8112/JSBC_iptv/C10000028@JSBC
 #EXTINF:-1 tvg-id="1046" tvg-name="优漫卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png" group-title="地方台",优漫卡通(720P)
 http://112.86.202.37:8112/JSBC_iptv/C10000030@JSBC
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方台",江苏国际(720P)
